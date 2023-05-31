@@ -60,6 +60,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :star: Statistics :
+<div align="center">
+  
+  | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuraj1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)          |          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishuraj1&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+  | ---- | ---- |
+  
+                      
+  
+</div>
 
 <!---
 rishuraj1/rishuraj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
