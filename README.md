@@ -60,6 +60,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### 🥑 Hacktoberfest (2023)
+
+[![An image of @rishuraj1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishuraj1)](https://holopin.io/@rishuraj1)
+
 ### :star: Statistics :
 <div align="center">
   
