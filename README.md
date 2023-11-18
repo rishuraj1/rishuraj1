@@ -73,7 +73,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=rishuraj1&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)     
 
 
-  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=rishuraj1)
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=rishuraj1&combine_all_yearly_contributions=true&theme=dracula)
 </div>
 
 <!---
