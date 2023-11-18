@@ -71,7 +71,9 @@
   | ---- | ---- |
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=rishuraj1&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)     
-  
+
+
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=rishuraj1)
 </div>
 
 <!---
